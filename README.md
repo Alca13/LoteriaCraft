@@ -13,9 +13,13 @@ El Codigo esta basado en Python, para mayor comodidad del usuario al tener que g
 
 <strong>Funcion</strong> <br>
 1.- El sistema crea y verifica la creacion de archivos necesarios para la ejecucion como librerias <br>
+
 2.- Se ejecuta el entorno de carga y verificacion de las imagenes que seran parte del carton de loteria <br>
-		<dd>Nota</dd> <br>
+
+![Screenshot 1.](https://github.com/Alca13/LoteriaCraft/blob/main/assets/Paso%201.jpg) 
+<br>
+		Nota <br><br>
 		*El procesador de imagen ajusta a una resolucion de 173x281px esto para establecer un rango de espacio entre las imagenes y poner 4x4 en cartones<br>
 		*El sistema renombra todos los archivos para de 1.jpg..2..3.png.... para evitar un colapso en la ejecución <br>
-		*El sistema por el momento solo aceptan 51 imagenes, debe de ser exacto no una menos y no una mas, ya que ´pr el momento se esta trabajando en conocer las cantidades exactas de las imagenes tener las iamgenes que deseas procesar<br>
+		*El sistema por el momento solo aceptan 51 imagenes, debe de ser exacto no una menos y no una mas, ya que por el momento se esta trabajando en conocer las cantidades exactas de las imagenes tener las iamgenes que deseas procesar<br>
 		
