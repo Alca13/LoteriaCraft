@@ -1,7 +1,7 @@
 # LoteriaCraft
 Generador de cartones de Loteria.
 
-<h2Descripción</h2> <br>
+<h2>Descripción</h2> <br>
 Este sistema permite a los clientes generar rápidamente cartones de lotería mexicana sin tener que preocuparse por los detalles técnicos. Es una herramienta eficiente y fácil de usar que brinda la emoción y la diversión del juego de lotería de manera conveniente.
 
 <hr>
@@ -34,7 +34,5 @@ Nota: <br><br>
 
 <hr>
 
-<h2>Información</h2>
-
-
-		
+<h2>Información</h2><br>
+para más información, o querer adquirir el servicio, contactarme en mi Instagram @alcaoficial
